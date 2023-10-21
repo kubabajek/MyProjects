@@ -5,3 +5,4 @@ Most of courses for QT BT app are for BT 2.0 module and it was very time-consumi
 
 # Images_on_osciloscope
 It is code in jupyter notebook (python) to convert image (black with white trail) to generate X and Y signals array to generate this image on osciloscope using 2 dac channels of our microcontroller and xy mode in osciloscope.
+(Image and inspiration was taken from reddit user furry_irl: https://www.reddit.com/r/furry_irl/comments/167xd9p/furry_irl/
